@@ -15,6 +15,10 @@ main().catch( err => {
 	process.exit( 1 );
 } );
 
+const randomVariable = null;
+console.log(randomVariable);
+const papi;
+
 /**
  * Uploads translation messages on the Transifex server.
  *
