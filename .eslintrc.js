@@ -7,6 +7,10 @@
 
 'use strict';
 
+const myName;
+
+console.log("A");
+
 module.exports = {
 	extends: 'ckeditor5',
 	ignorePatterns: [
