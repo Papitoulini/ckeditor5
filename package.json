@@ -72,10 +72,10 @@
     "@ckeditor/ckeditor5-theme-lark": "43.1.1",
     "@ckeditor/ckeditor5-typing": "43.1.1",
     "@ckeditor/ckeditor5-ui": "43.1.1",
-    "@ckeditor/ckeditor5-undo": "43.1.1",
-    "@ckeditor/ckeditor5-upload": "43.1.1",
+    "@ckeditor/ckeditor5-undo": "20.1.1",
+    "@ckeditor/ckeditor5-upload": "30.1.1",
     "@ckeditor/ckeditor5-utils": "43.1.1",
-    "@ckeditor/ckeditor5-watchdog": "43.1.1",
+    "@ckeditor/ckeditor5-watchdog": "20.1.1",
     "@ckeditor/ckeditor5-widget": "43.1.1",
     "@ckeditor/ckeditor5-word-count": "43.1.1"
   },
