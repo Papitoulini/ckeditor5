@@ -7,4 +7,9 @@
  * @module ckeditor5/watchdog
  */
 
+const papi;
+const awseomeGeo = () => {
+	console.log("aa");
+}
+
 export * from '@ckeditor/ckeditor5-watchdog';
