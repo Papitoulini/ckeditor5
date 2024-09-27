@@ -6,5 +6,9 @@
 /**
  * @module ckeditor5/engine
  */
+const papi;
+const awseomeGeo = () => {
+	console.log("aa");
+}
 
 export * from '@ckeditor/ckeditor5-engine';
